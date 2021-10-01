@@ -1,0 +1,57 @@
+.caard{
+
+height: max-content;
+
+.namesize{
+display:flex;
+margin-top: 10px;
+.name{
+font-size: 10px;
+width: 90px;
+margin-top: 10px;
+}
+
+.sizee
+{
+   font-size: 10px; 
+   background-color: white;
+   border-radius: 10px;
+   text-align: center;
+   margin-left: 10px;
+   color: #f9829b;
+
+   height: 15px;
+   width: 40px;
+ 
+}
+
+}
+
+.price{
+        margin-bottom: 10px;
+        font-weight: bold;
+        text-align: left;
+        position: absolute;
+        bottom: 40px;
+        left: 20px;
+  
+      
+}
+}
+
+
+.cartbtn{
+        font-size: 10px;
+        height: fit-content;
+        border-radius: 50px;
+        background-color: white;
+        color:  #f9829b;
+        border: none;
+        position: absolute;
+        bottom: 20px;
+        width: 80%;
+
+}
+.cartbtn:hover{
+         background-color: black;
+}
